@@ -8,6 +8,8 @@ I'm deeply passionate about computer science, innovation, and the profound impac
 
 - 🧠 I’m currently learning **[Svelte](https://svelte.dev/) and [Django](https://www.djangoproject.com/)**
 
+- 🧡 My favorite language is **Java**
+
 - 🤝 I’m looking to collaborate on **all kinds of projects**
 
 - 🌍 I'm based in **Switzerland 🇨🇭**
